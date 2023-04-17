@@ -1,1 +1,1 @@
-[{"name":"Colombia","goldM":1,"silverM":2,"bronzeM":3},{"name":"Brasil","goldM":2,"silverM":3,"bronzeM":4},{"name":"Colombia","goldM":1,"silverM":2,"bronzeM":3}]
+[{"name":"Nueva Zelanda","goldM":10,"silverM":1,"bronzeM":0}]

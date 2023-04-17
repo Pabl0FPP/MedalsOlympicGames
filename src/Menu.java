@@ -10,8 +10,9 @@ public class Menu {
 
     CountryMedals countryMedals=new CountryMedals();
 
-
     public void menu() throws IOException {
+
+        countryMedals.load();
 
         boolean exit=false;
         int option=0;

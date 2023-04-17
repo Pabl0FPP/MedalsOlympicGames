@@ -1,3 +1,5 @@
+import model.CountryMedals;
+
 import java.io.IOError;
 import java.io.IOException;
 

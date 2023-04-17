@@ -110,6 +110,7 @@ public class CountryMedals {
                 //leer linea por linea
                 content += line + "\n";
             }
+            System.out.println("Se cargo lo siguiente:");
             System.out.println(content);
             Gson gson=new Gson();
             Country[] array=gson.fromJson(content, Country[].class);
